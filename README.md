@@ -1,6 +1,6 @@
 # MyStoresQuiteLovely.JustSaying
 
-Repo: https://github.com/Rsaldaen/E-Commerce-Back-End
+Repo: https://github.com/Rsaldaen/MyStoresQuiteLovely.JustSaying
 
 ## Description
 ```md
