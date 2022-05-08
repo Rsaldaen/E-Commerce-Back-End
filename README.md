@@ -1,4 +1,4 @@
-# E-Commerce-Back-End
+# MyStoresQuiteLovely.JustSaying
 
 Repo: https://github.com/Rsaldaen/E-Commerce-Back-End
 
